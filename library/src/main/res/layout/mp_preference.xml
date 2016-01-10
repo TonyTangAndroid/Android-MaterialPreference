@@ -4,6 +4,8 @@
     android:layout_height="wrap_content"
     android:clipToPadding="false"
     android:gravity="center_vertical"
+    android:paddingLeft="@dimen/preference_view_padding"
+    android:paddingRight="@dimen/preference_view_padding"
     android:minHeight="48dp">
 
     <LinearLayout
